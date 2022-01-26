@@ -5,4 +5,4 @@
 ## 🖥️Tecnologias utilizadas:
 + Linguagem C
 
-<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+
