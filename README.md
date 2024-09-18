@@ -1,6 +1,6 @@
 # Estruturas de Dados
 
-Bem-vindo ao meu repositório de Estruturas de Dados! Aqui você encontrará uma coleção de conteúdos que abordam estruturas fundamentais da Ciência da Computação, com foco na aplicação de raciocínio lógico para a solução de problemas computacionais e no desenvolvimento de raciocínio abstrato e lógica de programação.
+Bem-vindo ao meu repositório de Estruturas de Dados! Aqui você encontrará uma coleção de conteúdos que abordam estruturas fundamentais da Engenharia da Computação, com foco na aplicação de raciocínio lógico para a solução de problemas computacionais e no desenvolvimento de raciocínio abstrato e lógica de programação.
 
 ## 📚 Conteúdo
 1. **Estruturas de Dados**
