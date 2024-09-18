@@ -1,4 +1,4 @@
-//Gean Carlos Gonçalves Martins
+//Gean Carlos GonÃ§alves Martins
 //2020021262
 
 #include <stdio.h>
